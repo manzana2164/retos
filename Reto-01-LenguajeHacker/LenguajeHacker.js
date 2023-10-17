@@ -45,4 +45,4 @@ function leet(text){
     console.log(translate);
 }
 
-leet("Hola Mundo");
+leet("natalio cardozo chupa pene");
